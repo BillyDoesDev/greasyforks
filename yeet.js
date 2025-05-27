@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Flag Dialog Smokey Controls
-// @namespace   https://github.com/Charcoal-SE/
+// @namespace   https://github.com/BillyDoesDev/
 // @description Adds Smokey status of a post and feedback options to flag dialogs.
 // @author      ArtOfCode
 // @contributor angussidney
