@@ -15,7 +15,7 @@
     'use strict';
 
     // Your code here...
-    addEventListener("load", main() )
+    addEventListener("load", main )
 
 })();
 
