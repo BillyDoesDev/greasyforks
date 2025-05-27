@@ -5,6 +5,8 @@
 // @description  try to take over the world!
 // @author       BillyDoesDev
 // @match        https://docs.google.com/forms*
+// @updateURL    https://raw.githubusercontent.com/BillyDoesDev/greasyforks/refs/heads/main/csharp-training-feedback-form-filler.js
+// @downloadURL  https://raw.githubusercontent.com/BillyDoesDev/greasyforks/refs/heads/main/csharp-training-feedback-form-filler.js
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=google.com
 // @grant        none
 // ==/UserScript==
