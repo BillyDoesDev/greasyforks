@@ -9,8 +9,8 @@
 // @contributor Glorfindel
 // @attribution Brock Adams (https://github.com/BrockA)
 // @version     1.19.1
-// @updateURL   https://raw.githubusercontent.com/Charcoal-SE/Userscripts/master/fdsc/fdsc.meta.js
-// @downloadURL https://raw.githubusercontent.com/Charcoal-SE/Userscripts/master/fdsc/fdsc.user.js
+// @updateURL   https://raw.githubusercontent.com/BillyDoesDev/greasyforks/main/yeet.meta.js
+// @downloadURL https://raw.githubusercontent.com/BillyDoesDev/greasyforks/main/yeet.js
 // @supportURL  https://github.com/Charcoal-SE/Userscripts/issues
 // @match       *://*.stackexchange.com/*
 // @match       *://*.stackoverflow.com/*
