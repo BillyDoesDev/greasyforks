@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         C# Form Filler Thingy
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/BillyDoesDev
 // @version      2025-05-26
 // @description  try to take over the world!
 // @author       BillyDoesDev
