@@ -1,2 +1,2 @@
-# 🍌
-actually no wait, I like this better
+# greasyforks
+my collection of tampermonkey scripts
